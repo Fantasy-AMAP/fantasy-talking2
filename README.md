@@ -1,7 +1,7 @@
 # FantasyTalking2: Timestep-Layer Adaptive Preference Optimization for Audio-Driven Portrait Animation
 [![Home Page](https://img.shields.io/badge/Project-FantasyTalking2-blue.svg)](https://fantasy-amap.github.io/fantasy-talking2/)
 [![arXiv](https://img.shields.io/badge/Arxiv-2508.11255-b31b1b.svg?logo=arXiv)](https://arxiv.org/abs/2508.11255)
-[![hf_paper](https://img.shields.io/badge/🤗-FantasyTalking2-red.svg)](https://huggingface.co/papers/2507.12956)
+[![hf_paper](https://img.shields.io/badge/🤗-FantasyTalking2-red.svg)](https://huggingface.co/papers/2508.11255)
 
 ## Abstract
 ![架构图](./assert/架构图2.png)
