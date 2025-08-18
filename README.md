@@ -10,10 +10,13 @@ Recent advances in audio-driven portrait animation have demonstrated impressive 
 ## 🔗Citation
 If you find this repository useful, please consider giving a star ⭐ and citation
 ```
-@article{wang2025fantasytalking2,
-  title={FantasyTalking2: Timestep-Layer Adaptive Preference Optimization for Audio-Driven Portrait Animation},
-  author={Wang, Mengchao and Wang, Qiang and Jiang, Fan and Xu, Mu},
-  journal={arXiv preprint arXiv:2507.12956},
-  year={2025}
+@misc{wang2025fantasytalking2timesteplayeradaptivepreference,
+      title={FantasyTalking2: Timestep-Layer Adaptive Preference Optimization for Audio-Driven Portrait Animation}, 
+      author={MengChao Wang and Qiang Wang and Fan Jiang and Mu Xu},
+      year={2025},
+      eprint={2508.11255},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2508.11255}, 
 }
 ```
