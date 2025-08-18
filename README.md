@@ -1,6 +1,6 @@
 # FantasyTalking2: Timestep-Layer Adaptive Preference Optimization for Audio-Driven Portrait Animation
 [![Home Page](https://img.shields.io/badge/Project-FantasyTalking2-blue.svg)](https://fantasy-amap.github.io/fantasy-talking2/)
-[![arXiv](https://img.shields.io/badge/Arxiv-2507.12956-b31b1b.svg?logo=arXiv)](https://arxiv.org/abs/2507.12956)
+[![arXiv](https://img.shields.io/badge/Arxiv-2508.11255-b31b1b.svg?logo=arXiv)](https://arxiv.org/abs/2508.11255)
 [![hf_paper](https://img.shields.io/badge/🤗-FantasyTalking2-red.svg)](https://huggingface.co/papers/2507.12956)
 
 ## Abstract
@@ -10,10 +10,13 @@ Recent advances in audio-driven portrait animation have demonstrated impressive 
 ## 🔗Citation
 If you find this repository useful, please consider giving a star ⭐ and citation
 ```
-@article{wang2025fantasytalking2,
-  title={FantasyTalking2: Timestep-Layer Adaptive Preference Optimization for Audio-Driven Portrait Animation},
-  author={Wang, Mengchao and Wang, Qiang and Jiang, Fan and Xu, Mu},
-  journal={arXiv preprint arXiv:2507.12956},
-  year={2025}
+@misc{wang2025fantasytalking2timesteplayeradaptivepreference,
+      title={FantasyTalking2: Timestep-Layer Adaptive Preference Optimization for Audio-Driven Portrait Animation}, 
+      author={MengChao Wang and Qiang Wang and Fan Jiang and Mu Xu},
+      year={2025},
+      eprint={2508.11255},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2508.11255}, 
 }
 ```
